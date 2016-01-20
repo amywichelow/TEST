@@ -1,0 +1,6 @@
+framework module Pods_Plughole {
+  umbrella header "Pods-Plughole-umbrella.h"
+
+  export *
+  module * { export * }
+}
